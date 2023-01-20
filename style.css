@@ -1,0 +1,35 @@
+
+body{
+    margin: 0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(38, 25, 49);
+    background-color: #fff;
+}
+#main-header{
+background-color: blanchedalmond;
+color: #fff;
+padding: 2rem 5%;
+text-align:center ;
+}
+.btn{
+    font:inherit;
+    padding: 0.5rem 1.5rem;
+    background-color: blanchedalmond;
+    border: 1px solid blanchedalmond;
+    color:#fff;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.btn-alt{
+    background-color:transparent;
+    border-color: transparent;
+    color: rgb(97, 74, 41);
+}
+.btn:hover{
+    background-color: rgb(49, 17, 87);
+    border-color: rgb(49, 17, 87) ;
+}
+.btn-alt:hover{
+    background-color: rgb(146, 99, 28);
+    background-color: transparent;
+}
